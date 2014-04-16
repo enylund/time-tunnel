@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enylund/inputoutput.git"
+    "url": "https://github.com/enylund/time-tunnel.git"
   },
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/enylund/inputoutput/issues"
+    "url": "https://github.com/enylund/time-tunnel/issues"
   }
 }
